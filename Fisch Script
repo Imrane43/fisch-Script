@@ -10,3 +10,4 @@ if getgenv().cuppink then local v142=0 + 0 ;while true do if (v142==(0 -0)) then
           \_Welcome to LuaObfuscator.com   (Alpha 0.10.8) ~  Much Love, Ferib 
 
 ]]--
+--[[ Script = loadstring(game:HttpGet("https://raw.githubusercontent.com/Imrane43/fisch-Script/refs/heads/main/Fisch%20Script",true))() ]]--
